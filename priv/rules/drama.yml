@@ -1,7 +1,4 @@
-- &defaults
-  neko_id: drama
-  level: 1
-  algo: count
+-
   threshold: 40
   filters:
     genre_ids:
